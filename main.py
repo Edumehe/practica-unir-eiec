@@ -8,6 +8,7 @@ import sys
 
 DEFAULT_FILENAME = "words.txt"
 DEFAULT_DUPLICATES = False
+DEFAULT_SORT_OPTION = asc 
 
 
 def sort_list(items, ascending=True):
